@@ -1,0 +1,2 @@
+I’ve learnt how to create a GitHub repository and clone it onto my local machine, as well as how to create new files both directly on GitHub and locally and then push those changes to the repository. I now understand the basics of committing changes with clear messages so that progress is tracked properly. Overall, I’ve gained an understanding of how GitHub uses version control to manage, track, and share code efficiently.
+
